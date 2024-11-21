@@ -13,7 +13,9 @@
         "minimum": "11",
         "verified": "11"
     },
-    "system": ["dnd5e"],
+    relationships:{
+        systems: dnd5e
+    }
     "scripts": [
       "scripts/change-image.js"
     ],
