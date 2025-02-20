@@ -8,14 +8,14 @@
           "discord": "kaybird"
         }
     ],
-    "version": "1.3.11",
+    "version": "1.4.",
     "compatibility": {
-        "minimum": "11",
-        "verified": "11"
+        "minimum": "12",
+        "verified": "12"
     },
-    relationships:{
-        systems: dnd5e
-    }
+    "relationships" :{
+        "systems": "dnd5e"
+    },
     "scripts": [
       "scripts/change-image.js"
     ],
